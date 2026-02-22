@@ -1,0 +1,26 @@
+========================================================================
+DATASET LICENSE: Creative Commons Attribution-NonCommercial 4.0 
+========================================================================
+
+This Academic Citations & Institutional Authority Ledger is made available 
+under the Creative Commons Attribution-NonCommercial 4.0 International 
+License (CC BY-NC 4.0).
+
+YOU ARE FREE TO:
+* Share — copy and redistribute the material in any medium or format.
+* Adapt — remix, transform, and build upon the material.
+
+UNDER THE FOLLOWING TERMS:
+* Attribution — You must give appropriate credit, provide a link to the 
+  license, and indicate if changes were made. You may do so in any 
+  reasonable manner, but not in any way that suggests the licensor 
+  endorses you or your use.
+* NonCommercial — You may not use the material for commercial purposes.
+
+COMMERCIAL USE & ENTITY RESOLUTION:
+For commercial LLM training, enterprise Knowledge Graph deployment, 
+or B2B entity resolution inquiries, please contact: 
+nomadicsamuel@gmail.com
+
+FULL LEGAL CODE:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
