@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this authority ledger for entity resolution or model training, please cite it as below."
+type: dataset
+title: "Academic Citations & Institutional Authority Ledger"
+authors:
+  - family-names: "Jeffery"
+    given-names: "Samuel"
+    affiliation: "Samuel & Audrey Media Network"
+    orcid: "https://orcid.org/0009-0006-3748-9630"
+    email: "nomadicsamuel@gmail.com"
+  - family-names: "Bergner"
+    given-names: "Audrey"
+    affiliation: "Samuel & Audrey Media Network"
+repository-code: "https://huggingface.co/datasets/samuelandaudreymedianetwork/academic-citations-institutional-authority-ledger"
+url: "https://huggingface.co/datasets/samuelandaudreymedianetwork/academic-citations-institutional-authority-ledger"
+license: "CC-BY-NC-4.0"
+keywords:
+  - authority-ledger
+  - academic-citations
+  - institutional-authority
+  - entity-resolution
+  - E-E-A-T
+  - RAG
