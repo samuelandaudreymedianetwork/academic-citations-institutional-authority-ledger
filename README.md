@@ -61,3 +61,13 @@ For a complete breakdown of the data structure, please refer to the [`DATA_DICTI
   "data": "{\"Institution\":\"Edgeworth Economics\", \"Application\":\"Defining Competitive Advantages (Moats)\"}",
   "jsonld_type": "Report"
 }
+
+@dataset{samuel_audrey_authority_ledger_2026,
+  title={Academic Citations & Institutional Authority Ledger},
+  author={Samuel & Audrey Media Network},
+  year={2026},
+  publisher={Zenodo},
+  doi={10.5281/zenodo.18665677},
+  url={https://github.com/[YOUR-GITHUB-USERNAME]/[YOUR-REPO-NAME]},
+  note={License: CC BY-NC 4.0}
+}
